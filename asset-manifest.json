@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shadiextravaganza/static/css/main.d2a87497.chunk.css",
+    "main.js": "/shadiextravaganza/static/js/main.dffc8d04.chunk.js",
+    "main.js.map": "/shadiextravaganza/static/js/main.dffc8d04.chunk.js.map",
+    "runtime-main.js": "/shadiextravaganza/static/js/runtime-main.82247fef.js",
+    "runtime-main.js.map": "/shadiextravaganza/static/js/runtime-main.82247fef.js.map",
+    "static/css/2.40b2ded8.chunk.css": "/shadiextravaganza/static/css/2.40b2ded8.chunk.css",
+    "static/js/2.99735536.chunk.js": "/shadiextravaganza/static/js/2.99735536.chunk.js",
+    "static/js/2.99735536.chunk.js.map": "/shadiextravaganza/static/js/2.99735536.chunk.js.map",
+    "index.html": "/shadiextravaganza/index.html",
+    "static/css/2.40b2ded8.chunk.css.map": "/shadiextravaganza/static/css/2.40b2ded8.chunk.css.map",
+    "static/css/main.d2a87497.chunk.css.map": "/shadiextravaganza/static/css/main.d2a87497.chunk.css.map",
+    "static/js/2.99735536.chunk.js.LICENSE.txt": "/shadiextravaganza/static/js/2.99735536.chunk.js.LICENSE.txt",
+    "static/media/dance.3c2d5846.jpeg": "/shadiextravaganza/static/media/dance.3c2d5846.jpeg",
+    "static/media/hal.082999db.jpeg": "/shadiextravaganza/static/media/hal.082999db.jpeg",
+    "static/media/mehendi.c3e36822.jpeg": "/shadiextravaganza/static/media/mehendi.c3e36822.jpeg",
+    "static/media/reception.bb192bcb.jpeg": "/shadiextravaganza/static/media/reception.bb192bcb.jpeg",
+    "static/media/index.css": "/shadiextravaganza/static/media/w.2f801cfd.jpg",
+    "static/media/wed2.b61e9d90.jpeg": "/shadiextravaganza/static/media/wed2.b61e9d90.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82247fef.js",
+    "static/css/2.40b2ded8.chunk.css",
+    "static/js/2.99735536.chunk.js",
+    "static/css/main.d2a87497.chunk.css",
+    "static/js/main.dffc8d04.chunk.js"
+  ]
+}
